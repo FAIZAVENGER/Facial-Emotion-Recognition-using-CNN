@@ -61,14 +61,6 @@ This project focuses on building a **Facial Emotion Recognition (FER) system** u
 ## 📊 Results
 - The CNN model achieved high accuracy on the validation set (typically around **65–70%** depending on training).  
 - Real-time emotion detection implemented using **OpenCV webcam feed**.  
-- Example predictions:
-
-| Emotion | Example Image | Predicted Emotion |
-|---------|---------------|-----------------|
-| Happy 😀 | ![happy](example_happy.png) | Happy |
-| Sad 😢 | ![sad](example_sad.png) | Sad |
-| Surprise 😲 | ![surprise](example_surprise.png) | Surprise |
-
 - Confusion Matrix and Accuracy/Loss plots were used to evaluate performance.
 
 ---
@@ -84,8 +76,7 @@ This project focuses on building a **Facial Emotion Recognition (FER) system** u
 ## 📫 Contact
 - Email: mfaizankh007@gmail.com  
 - GitHub: https://github.com/FAIZAVENGER
-- 
+
 ---
 
 > "Emotions are the window to the mind, and AI helps us understand them."  
-
